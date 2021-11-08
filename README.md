@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Knusk
-- 👀 I’m interested in disc golf, listening to music, design, programming, baking bread, and teaching media in high school
-- 🌱 I’m currently learning git, node.js and front end i general
+- 👀 I’m interested in discgolf, listening to music, design-stuff, programming (design, visual), baking bread, brewing beer, and teaching media in high school
+- 🌱 I’m currently learning better webdesign with CSS and JS ... Love Blender 3D!
 - 💞️ I’m looking to collaborate on making small games maybe?
 - 📫 How to reach me: knut-einar at rsd.no
 
